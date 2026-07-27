@@ -11,8 +11,8 @@ Scheme
 
 
 flashing
-| Binary           |  Flash address |
-|------------------|-------------------|
-| `bootloader.bin` | `0x0000`          |
-| `partitions.bin` | `0x8000`          |
-| `firmware.bin`   | `0x10000`         |
+| Binary                         |  Flash address |
+|--------------------------------|-------------------|
+| `Dawg-Jammerc3.bootloader.bin` | `0x0000`          |
+| `Dawg-Jammerc3.partitions.bin` | `0x8000`          |
+| `Dawg-Jammerc3.bin`            | `0x10000`         |
