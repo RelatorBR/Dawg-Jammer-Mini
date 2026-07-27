@@ -6,7 +6,8 @@ Esp c3 jammer project with/without Oled Display
 
 
 Scheme
-<img width="900" height="572" alt="image" src="https://github.com/user-attachments/assets/774410a1-344d-40f6-86a9-df2c4b0feb02" />
+<img width="890" height="286" alt="image" src="https://github.com/user-attachments/assets/111d7e4f-77e8-414c-9756-b5419c728e8d" />
+
 
 
 flashing
