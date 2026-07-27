@@ -6,7 +6,8 @@ Esp c3 jammer project with or without Oled Display
 
 
 Scheme
-<img width="1335" height="429" alt="image" src="https://github.com/user-attachments/assets/4cccf378-6fd9-4328-99c0-5cd2102b5f2a" />
+<img width="1335" height="498" alt="image" src="https://github.com/user-attachments/assets/d88f5c4f-7ffb-443d-a6af-5efbcbc518e9" />
+
 
 
 
