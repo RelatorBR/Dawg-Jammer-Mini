@@ -11,7 +11,7 @@ Scheme
 
 
 
-flashing
+Hex Parameter flash
 | Binary                         |  Flash address |
 |--------------------------------|-------------------|
 | `Dawg-Jammerc3.bootloader.bin` | `0x0000`          |
