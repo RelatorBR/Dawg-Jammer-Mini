@@ -22,6 +22,7 @@ Hex Parameter flash
 | `Dawg-Jammerc3.partitions.bin` | `0x8000`          |
 | `Dawg-Jammerc3.bin`            | `0x10000`         |
 
+Download all three archives on repo download and flash.
 
 _Firmware esp32 flash tool [download here](https://dl.espressif.com/public/flash_download_tool.zip)_
 
