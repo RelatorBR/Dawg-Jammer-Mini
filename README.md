@@ -1,3 +1,7 @@
+Jamming is ILLEGAL! Educational purposes only!
+
+
+
 # Dawg-Mini-Jammer
 Esp c3 jammer project with or without Oled Display 
 
@@ -17,3 +21,15 @@ Hex Parameter flash
 | `Dawg-Jammerc3.bootloader.bin` | `0x0000`          |
 | `Dawg-Jammerc3.partitions.bin` | `0x8000`          |
 | `Dawg-Jammerc3.bin`            | `0x10000`         |
+
+
+
+
+
+
+
+
+
+
+Jamming is ILLEGAL! Educational purposes only!
+
