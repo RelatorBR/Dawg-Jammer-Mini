@@ -23,6 +23,7 @@ Hex Parameter flash
 | `Dawg-Jammerc3.bin`            | `0x10000`         |
 
 
+_Firmware esp32 flash tool [download here](https://dl.espressif.com/public/flash_download_tool.zip)_
 
 
 
@@ -31,5 +32,6 @@ Hex Parameter flash
 
 
 
+________________________________________________
 Jamming is ILLEGAL! Educational purposes only!
 
