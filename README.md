@@ -1,6 +1,3 @@
-Jamming is ILLEGAL! Educational purposes only!
-
-
 
 # Dawg-Mini-Jammer
 Esp c3 jammer project with or without Oled Display 
