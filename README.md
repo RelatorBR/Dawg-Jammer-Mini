@@ -5,26 +5,22 @@ Esp c3 jammer project with or without Oled Display
 
 
 
-
+________________________________
 Scheme
 <img width="1335" height="498" alt="image" src="https://github.com/user-attachments/assets/d88f5c4f-7ffb-443d-a6af-5efbcbc518e9" />
 
 
 
+________________________________
+Flashing
 
-Hex Parameter flash
-| Binary                         |  Flash address |
-|--------------------------------|-------------------|
-| `Dawg-Jammerc3.bootloader.bin` | `0x0000`          |
-| `Dawg-Jammerc3.partitions.bin` | `0x8000`          |
-| `Dawg-Jammerc3.bin`            | `0x10000`         |
+1- Open [esp web flasher](https://espflash.app/).
 
-Download all three archives on repo download and flash.
+2- click connect device and select COM PORT.
 
-_Firmware esp32 flash tool [download here](https://dl.espressif.com/public/flash_download_tool.zip)_
+3- select bin and type this addr 0x00.
 
-
-
+4- click flash and wait for end proccess.
 
 
 
