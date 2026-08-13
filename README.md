@@ -14,7 +14,7 @@ Scheme
 ---
 Flashing
 
-1- Open [Dawg Esp32 Flasher]([https://espflash.app/](https://dawg-esp32-flasher.vercel.app/).
+1- Open [Dawg Esp32 Flasher](https://dawg-esp32-flasher.vercel.app/).
 
 2- click connect device and select COM PORT.
 
