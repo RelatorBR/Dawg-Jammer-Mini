@@ -11,14 +11,14 @@ Scheme
 
 
 
-________________________________
+---
 Flashing
 
-1- Open [esp web flasher](https://espflash.app/).
+1- Open [Dawg Esp32 Flasher]([https://espflash.app/](https://dawg-esp32-flasher.vercel.app/)).
 
 2- click connect device and select COM PORT.
 
-3- select bin and type this addr 0x00.
+3- select all three bins downloaded on repo.
 
 4- click flash and wait for end proccess.
 
