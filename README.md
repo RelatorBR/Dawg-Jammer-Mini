@@ -1,7 +1,7 @@
 
 # Dawg-Mini-Jammer
 Esp c3 jammer project with or without Oled Display 
-
+Warnming !! Jamming is ILLEGAL! Educational purposes only!
 
 
 
@@ -27,5 +27,7 @@ Flashing
 
 
 ________________________________________________
-Jamming is ILLEGAL! Educational purposes only!
+
+
+Call me on [Telegram Group](https://t.me/+F_4PkvG7o_80OGNh)
 
